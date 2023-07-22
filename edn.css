@@ -1,0 +1,144 @@
+
+
+body{
+    background-color: #EEE8E8;
+   
+}
+
+header {
+background-color: #e9e9e9;
+  padding: 30px;
+  text-align: center;
+  color: white;
+}
+
+
+.banner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+
+#nav_list ul li {
+    display:inline;
+    padding: 0 1.5em;
+    float: center;
+    margin: 0 30;
+    text-align: center;
+}
+
+#nav_list ul li a{
+    font-size: 125%;
+    font-weight:bold;
+    color:#735353;
+    
+}
+
+.icons {
+     vertical-align: center;
+     padding: auto;  
+      
+}
+
+
+.banner2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+}
+
+p.main {
+    text-align: center;
+    display: block;
+    font-family: 'Handlee', cursive;
+    font-size: 130%;
+    float: center;
+}
+
+p.b {
+    font-family: 'Handlee', cursive; 
+    font-size: 130%;
+    text-align: center;
+}
+
+ 
+
+h1 {
+    text-align: center;
+    font-family: 'Handlee', cursive;
+    color: #735353; 
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Handlee', cursive;
+    color: #735353; 
+    
+}
+
+.one {
+    justify-content: center;
+    display:flex;
+    align-items: center;
+    float: left;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    
+}
+
+.two {
+  justify-content: center;
+  display:flex;
+  align-items: center;
+  float: right;
+}
+
+
+.eventone {
+    text-align: center;
+    font-family: 'Handlee', cursive;
+    color: #000000; 
+    
+   }
+
+.eventtwo {
+  text-align: center;
+    font-family: 'Handlee', cursive;
+    color: #000000; 
+    float: right;
+}
+
+#container {
+        width: auto;
+        height: 100%;
+        background-color:rgb(255, 255, 255);
+        position: relative;
+        float: center;
+        margin-bottom: 50%;
+
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+
+/* images from adobe stock */
